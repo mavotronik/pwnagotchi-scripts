@@ -2,7 +2,7 @@
 Scripts for pwnagotchi
 
 ## bt-reconnect.sh
-- fix bluetooth connection by REpair your device
+- fix bluetooth connection by re pair your device
 - Usage: ```sudo sh bt-reconnect.sh <your_mac>```
 
 ## system-control.py
